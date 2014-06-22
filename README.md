@@ -1,3 +1,5 @@
+##This is updated Programming Assignment2
+
 ### Introduction
 
 This second programming assignment will require you to write an R
